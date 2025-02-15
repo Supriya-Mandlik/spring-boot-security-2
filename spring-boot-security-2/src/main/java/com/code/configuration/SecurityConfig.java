@@ -25,6 +25,6 @@ public class SecurityConfig {
 	}
 	
 	//in basic authentication we get the alert box at browser and in this we don't have logout functionality.
-	//inform based authentication we get form for authentication and we can use logout functionality for logout
+	//in form based authentication we get form for authentication and we can use logout functionality for logout
 	//SessionCreationPolicy.STATELESS is to make our api stateless
 }
